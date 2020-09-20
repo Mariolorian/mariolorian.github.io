@@ -34,12 +34,10 @@ p,
 section {
 	flex-basis: 57%;
 	margin-right: 10%;
-	border: 1px solid red;
 }
 
 aside {
 	flex-basis: 33%;
-	border: 1px solid blue;
 }
 
 /* ----------- */
